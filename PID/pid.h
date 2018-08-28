@@ -3,10 +3,11 @@
 
 //定义PID计算涉及的变量结构
 typedef struct PID={
+	int Ek;
+	int Es;
 	
-
-
-
+	int Kp;
+	
 }
 
 
